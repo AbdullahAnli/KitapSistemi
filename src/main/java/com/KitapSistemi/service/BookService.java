@@ -1,7 +1,7 @@
-package com.KitapSistemi.Service;
+package com.KitapSistemi.service;
 
 
-import com.KitapSistemi.Repository.BookRepository;
+import com.KitapSistemi.repository.BookRepository;
 import com.KitapSistemi.entity.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

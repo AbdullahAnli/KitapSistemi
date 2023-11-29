@@ -1,6 +1,6 @@
 package com.KitapSistemi.controller;
 
-import com.KitapSistemi.Service.BookService;
+import com.KitapSistemi.service.BookService;
 import com.KitapSistemi.entity.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
